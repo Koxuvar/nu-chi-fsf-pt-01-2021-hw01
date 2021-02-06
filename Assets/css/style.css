@@ -94,7 +94,7 @@ main section {
     max-height: 200px;
 }
 
-.main-art-section h1 {
+.main-art-section h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -115,7 +115,7 @@ main section {
     color: #ffffff;
 }
 
-.benefit h1 {
+.benefit h3 {
     margin-bottom: 10px;
     text-align: center;
 }
