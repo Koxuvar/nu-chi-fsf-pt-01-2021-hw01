@@ -3,7 +3,7 @@ Week 1 HW Assignment
 
 This week's assignment refactors the home page of a company's website to meet new accessibility criteria defined in the assignment. The requirements definded as the acceptance criteria are shown below. 
 
-The completed assignment is located in the develop folder.
+
 
 
 ## User Story
